@@ -14,8 +14,8 @@ int main()
 	double R; // вхідний параметр
 	double y; // результат обчислення виразу
 
-	cout << "x = "; cin >> R;
-	cout << "R = "; cin >> x;
+	cout << "R = "; cin >> R;
+	cout << "x = "; cin >> x;
 
 	// розгалуження в повній формі
 
